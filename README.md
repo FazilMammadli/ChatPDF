@@ -77,10 +77,10 @@ streamlit run app.py
 ```
 
 ## 🚀 Usage Guide
--Upload multiple PDFs to the app.
--Click "Process" to extract and chunk text.
--Ask questions in natural language.
--AI chatbot will provide accurate answers from PDFs.
+- Upload multiple PDFs to the app.
+- Click "Process" to extract and chunk text.
+- Ask questions in natural language.
+- AI chatbot will provide accurate answers from PDFs.
 
 ## 📊 Future Enhancements
 🔹 Real-time Camera OCR for PDFs 📷
