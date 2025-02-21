@@ -91,4 +91,4 @@ streamlit run app.py
 
 
 ## ⭐ Support & Contributions
-💡 If you like this **AI-powered Image-to-Speech Tool**, **drop a ⭐ on GitHub!**  
+💡 If you like this, **drop a ⭐ on GitHub!**  
