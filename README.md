@@ -22,7 +22,7 @@ Chat seamlessly with multiple PDFs using **LangChain, Google Gemini Pro, and FAI
 5. **AI Response Generation** → Chatbot provides **accurate responses** from PDFs.
 
 📌 Example:
-![Chatbot Output](img/LLMframework.jpg)
+![Chatbot Output](img/ChatPDF.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Chat seamlessly with multiple PDFs using **LangChain, Google Gemini Pro, and FAI
 ✅ **Seamless Integration** - Works with **FAISS Vector DB** for fast query responses.  
 
 📌 Example:
-![Chatbot Response](img/LLMApp.jpg)
+![Chatbot Response](img/LLMApp_.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Chat seamlessly with multiple PDFs using **LangChain, Google Gemini Pro, and FAI
 - **PyPDF2** (Extracting text from PDFs)
 
 📌 Example:
-![LLM Agents](img/LLMAgents.jpg)
+![LLM Agents](img/LLMAgents_.jpg)
 
 ---
 
